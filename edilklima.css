@@ -1,0 +1,94 @@
+html { font-size:100%;}
+.flex {
+	max-width: 35%;
+	display:block;
+    margin:0px auto;
+	text-align:center;
+}
+h4#nome {
+	font-family: Georgia, Arial, sans-serif;
+	color: #ffa319;
+}
+h5#titolo {
+	font-family: Times New Roman, Arial, sans-serif;
+	color: #4b4c5c;
+	font-size:2vw;
+	margin: 0 auto;
+}
+h3#citazione {
+	font-family: Times New Roman, Arial, sans-serif;
+	color: #2e2d2d;
+}
+p#citazione {
+	font-size:1em;
+	color: #4b4c5c;
+}
+h4 {
+	float: center;
+	font-family: Georgia, Arial, sans-serif;
+}
+
+a {
+	color: black;
+}
+a:hover {
+	color: white;
+}
+body {
+	background-color: #f0eedf;
+}
+
+div.allinea { float:left; margin-left:10px; }
+div#description {
+	float: center;
+	margin: 0 auto;
+	max-width: 100%;
+}
+div#citazione {
+	margin: 0 auto;
+	max-width: 90%;
+}
+div#photos {
+	margin: 0 auto;
+	max-width:  90%;
+}
+div#navbar {
+	margin: 0 auto;
+	max-width: 86%;
+}
+div#intestazione {
+	margin: 0 auto;
+	max-width: 65%;
+	max-height: 50%;
+}
+h6 {
+	color: #636361;
+}
+
+h5#testo {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #424240;
+	max-width: 86%;
+	text-align: left;
+}
+
+div#who {
+	max-width: 90%;
+	background-color: #f0eedf;
+	margin: 0 auto;
+	border-radius: 30px;
+}
+div#what {
+	max-width: 90%;
+	background-color: #f0eedf;
+	margin: 0 auto;
+	border-radius: 30px;
+}
+div#where {
+	margin: 0 auto;
+}
+
+div#show-indirizzo, div#show-numero, div#show-orario {
+	display: none;
+}
+
